@@ -256,7 +256,7 @@ section {
 }
 .home-img img {
     position: absolute;
-    bottom: 0;
+    bottom: 370px;
     right: 40px;
     pointer-events: none;
     max-width: 500px;
